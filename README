@@ -1,1 +1,11 @@
 Collection of keymap files for various JetBrains IDEs
+
+
+The rubymine.2.0.eclipse.xml cannot be imported directly. It must be .jarred accordingly:
+
+.jar
++- keymaps
+   +- rubymine.2.0.eclipse.xml
+   
+plus some other stuff - need to figure out how best to deal with that - rather 
+not store a .jar here, but maybe that's best.

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keymap version="1" name="cLabs.Eclipse" parent="Eclipse">
+  <action id="ActivateStructureToolWindow" />
+  <action id="CollapseSelection" />
+  <action id="DuplicatesForm.SendToLeft" />
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="control alt UP" />
+    <keyboard-shortcut first-keystroke="control alt DOWN" />
+    <keyboard-shortcut first-keystroke="shift control D" />
+  </action>
+  <action id="FileChooser.GotoHome" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="control F3" />
+    <keyboard-shortcut first-keystroke="control O" />
+  </action>
+  <action id="GotoBookmark1" />
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="control PERIOD" />
+  </action>
+  <action id="GotoPreviousError">
+    <keyboard-shortcut first-keystroke="shift F1" />
+    <keyboard-shortcut first-keystroke="control COMMA" />
+  </action>
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="alt ENTER" />
+    <keyboard-shortcut first-keystroke="shift alt J" />
+    <keyboard-shortcut first-keystroke="shift control M" />
+    <keyboard-shortcut first-keystroke="control 1" />
+  </action>
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="F5" />
+  </action>
+  <action id="Synchronize" />
+</keymap>
+
