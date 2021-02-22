@@ -1,3 +1,10 @@
+## Deprecated
+
+_2021: As time has gone on, the mappings have drifted away from whatever I was using in Eclipse and carrying through other IDEs, to be more efficient for myself. See my private repo for personal backups._
+
+
+---
+
 Collection of keymap files for various JetBrains IDEs
 
 ## ReSharper
